@@ -12,5 +12,5 @@ My name is Isaac Pinto Ramos, I´m from Brazil :brazil: I’m a student of syste
 
 Reach me out 👇🏻
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-pinto-ramos/)](hhttps://www.linkedin.com/in/isaac-pinto-ramos/)
+ [![Linkedin Badge](https://www.linkedin.com/in/isaac-pinto-ramos/)](hhttps://www.linkedin.com/in/isaac-pinto-ramos/)
  
